@@ -1,0 +1,3 @@
+Hola, este archivo debería ser la memoria del proyecto pero por ahora no tengo demasiada cosa, estuve configurando el proyecto de djando en y haciendo el repositorio. Siento que voy bastante atrasado con esto y me pondré a trabajar a partir de hoy hasta acabar lo que quiero hacer.
+
+En principio es una aplicación en android studio, en la cual puedes agregar los ejercicios que haces en el gym por tí mismo, con su nombre, y podrías ir registrando tus rutinas, teniendo como parámetros el peso que estás levantando en el ejercicio, y la cantidad de repeticiones, la aplicación tomaría la fecha del dispositivo, e iría haciendo poco a poco una gráfica donde te muestre a nivel de rendimiento como ha sido tu desempeño, para que puedas ver el progreso,
